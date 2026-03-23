@@ -1,0 +1,4175 @@
+[
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2026-03-19T03:33:50.823Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "1",
+        "object_repr": "Session object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2026-03-19T03:35:19.788Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "1",
+        "object_repr": "Session object (1)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Datetime\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2026-03-19T03:35:52.569Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "2",
+        "object_repr": "Session object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2026-03-19T03:36:17.347Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "3",
+        "object_repr": "Session object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2026-03-19T03:36:38.749Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "4",
+        "object_repr": "Session object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2026-03-19T03:36:53.194Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "5",
+        "object_repr": "Session object (5)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2026-03-19T03:37:06.965Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "6",
+        "object_repr": "Session object (6)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2026-03-19T03:37:54.049Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "7",
+        "object_repr": "Session object (7)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2026-03-19T03:38:12.115Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "8",
+        "object_repr": "Session object (8)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2026-03-19T03:38:21.320Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "9",
+        "object_repr": "Session object (9)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2026-03-19T03:38:33.423Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "10",
+        "object_repr": "Session object (10)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2026-03-19T03:38:44.442Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "11",
+        "object_repr": "Session object (11)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2026-03-19T03:39:04.137Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "12",
+        "object_repr": "Session object (12)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2026-03-19T04:04:18.253Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "13",
+        "object_repr": "Sessão para o filme: Sprint Impossível: O Protocolo Deploy, na Sala 3 as 2026-04-03 07:00:00+00:00",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2026-03-19T04:04:43.895Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "14",
+        "object_repr": "Sessão para o filme: B2-Wars: O Despertar do Código, na Sala 3 as 2026-04-03 10:00:00+00:00",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2026-03-19T04:05:10.590Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "15",
+        "object_repr": "Sessão para o filme: Sprint Impossível: O Protocolo Deploy, na Sala 3 as 2026-04-03 13:00:00+00:00",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2026-03-19T04:05:25.132Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "16",
+        "object_repr": "Sessão para o filme: B2-Wars: O Despertar do Código, na Sala 3 as 2026-04-03 16:00:00+00:00",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2026-03-19T04:06:02.914Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "17",
+        "object_repr": "Sessão para o filme: Sprint Impossível: O Protocolo Deploy, na Sala 3 as 2026-04-03 19:00:00+00:00",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2026-03-19T04:06:16.181Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "18",
+        "object_repr": "Sessão para o filme: B2-Wars: O Despertar do Código, na Sala 3 as 2026-04-03 22:00:00+00:00",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2026-03-19T04:06:36.137Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "19",
+        "object_repr": "Sessão para o filme: O Lobo da B2bit, na Sala 4 as 2026-04-04 07:00:00+00:00",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2026-03-19T04:06:48.563Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "20",
+        "object_repr": "Sessão para o filme: Harry Coder e a Câmara dos Segredos do Git, na Sala 4 as 2026-04-04 10:00:00+00:00",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2026-03-19T04:07:02.121Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "21",
+        "object_repr": "Sessão para o filme: O Lobo da B2bit, na Sala 4 as 2026-04-04 13:00:00+00:00",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2026-03-19T04:07:16.226Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "22",
+        "object_repr": "Sessão para o filme: Harry Coder e a Câmara dos Segredos do Git, na Sala 4 as 2026-04-04 16:00:00+00:00",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2026-03-19T04:07:34.418Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "23",
+        "object_repr": "Sessão para o filme: O Lobo da B2bit, na Sala 4 as 2026-04-04 19:00:00+00:00",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2026-03-19T04:07:43.146Z",
+        "user": 9,
+        "content_type": 9,
+        "object_id": "24",
+        "object_repr": "Sessão para o filme: Harry Coder e a Câmara dos Segredos do Git, na Sala 4 as 2026-04-04 22:00:00+00:00",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2026-03-22T21:34:38.875Z",
+        "user": 9,
+        "content_type": 6,
+        "object_id": "10",
+        "object_repr": "mat@1.com",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2026-03-22T21:34:49.124Z",
+        "user": 9,
+        "content_type": 6,
+        "object_id": "11",
+        "object_repr": "mat@2.com",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2026-03-22T21:36:26.006Z",
+        "user": 9,
+        "content_type": 6,
+        "object_id": "11",
+        "object_repr": "mat@2.com",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Password\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2026-03-22T21:36:29.237Z",
+        "user": 9,
+        "content_type": 6,
+        "object_id": "10",
+        "object_repr": "mat@1.com",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Password\"]}}]"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "wp3rp6vr5ihbzeih4yxufd2j89lzviws",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2hBSCgMu3XsGMtMZpGpoUtpV491tky50-977f1MJ16WktcmcRlZXFdXllxEOL6mH4CfWx6SHqS7zSPpI9Gmbvk8s79vZ_h0UbGVfQ3QGAJ0JYpwPnLM1zOIwA4hIMOi559hFIs857IzQGit9RzY4iOrzBfG4OFk:1w33XY:PfCR4wTdyT0xV29MNIJi85EIwFETR1DcX87lhJ2aq0Y",
+        "expire_date": "2026-04-02T02:55:16.323Z"
+    }
+},
+{
+    "model": "core.movie",
+    "pk": 1,
+    "fields": {
+        "name": "Vingadores: Dashboard Infinito",
+        "description": "Uma jornada de 4 meses de automações planejadas tornou-se uma guerra infinita quando o titã Ant-Artico cresceu o olho poucas semanas depois da 1ª Sprint. Ignorando completamente o cronograma original, ele forçou a criação do artefato místico: o Dashboard Infinito — um MVP de métricas de tráfego pago capaz de devorar todas as outras tasks do escopo. Agora, o time de Automação da B2Bit vê seus processos originais virarem pó enquanto uma torrente interminável de novos blocos de métricas e funis complexos surge sem parar. Conseguirá a equipe entregar o site antes que o escopo infinito engula toda a realidade da software house?",
+        "duration_minutes": 177
+    }
+},
+{
+    "model": "core.movie",
+    "pk": 2,
+    "fields": {
+        "name": "Devs & Furiosos: Tokyo Drift no Backend",
+        "description": "Quando o banco de dados perde a tração e o servidor começa a fritar, um grupo de devs especialistas em performance entra em cena para tunar as queries e fazer o sistema rodar sem capotar na produção.",
+        "duration_minutes": 135
+    }
+},
+{
+    "model": "core.movie",
+    "pk": 3,
+    "fields": {
+        "name": "B2-Trix",
+        "description": "Você prefere a pílula azul (aceitar que o bug é uma feature) ou a pílula vermelha (entender como o framework realmente funciona)? Um dev descobre que o mundo é apenas um grande legado escrito em COBOL.",
+        "duration_minutes": 172
+    }
+},
+{
+    "model": "core.movie",
+    "pk": 4,
+    "fields": {
+        "name": "O Senhor dos Commits: A Sociedade do Código",
+        "description": "Nove desenvolvedores partem em uma jornada épica para levar um Pull Request perigoso até as chamas da Produção. O objetivo? Destruir o Bug Mestre que a todos governa e a todos escraviza.",
+        "duration_minutes": 95
+    }
+},
+{
+    "model": "core.movie",
+    "pk": 5,
+    "fields": {
+        "name": "Sprint Impossível: O Protocolo Deploy",
+        "description": "Sua missão, caso decida aceitá-la: entregar um app completo em uma Sprint de 3 dias após o servidor de homologação ser desconectado. Esta documentação se autodestruirá após o primeiro npm install.",
+        "duration_minutes": 141
+    }
+},
+{
+    "model": "core.movie",
+    "pk": 6,
+    "fields": {
+        "name": "B2-Wars: O Despertar do Código",
+        "description": "Numa galáxia de servidores muito distante, uma vulnerabilidade sombria ameaça a paz do sistema. Um jovem estagiário descobre que possui a Força (o acesso root) e precisa se unir à Resistência de Devs para destruir a Estrela da Morte: um monolito legado que consome planetas inteiros de memória RAM.",
+        "duration_minutes": 165
+    }
+},
+{
+    "model": "core.movie",
+    "pk": 7,
+    "fields": {
+        "name": "O Lobo da B2bit",
+        "description": "Um ambicioso vendedor de software convence os clientes de que a B2Bit pode entregar sistemas de IA quântica em 48 horas. Enquanto o setor de vendas celebra com festas e excessos, o time de Backend precisa descobrir como transformar promessas impossíveis em código real sem que o servidor de produção exploda.",
+        "duration_minutes": 136
+    }
+},
+{
+    "model": "core.movie",
+    "pk": 8,
+    "fields": {
+        "name": "Harry Coder e a Câmara dos Segredos do Git",
+        "description": "Harry descobre que é um desenvolvedor e é levado para a escola de tecnologia da B2Bit. Lá, ele encontra um repositório escondido que nunca deveria ter sido aberto. Agora, ele precisa enfrentar \"Aquele-Que-Não-Deve-Ser-Nomeado\": o bug mestre que deletou o banco de dados de produção sem deixar um único rastro nos logs.",
+        "duration_minutes": 147
+    }
+},
+{
+    "model": "core.room",
+    "pk": 1,
+    "fields": {
+        "name": "Sala 1",
+        "capacity": 16
+    }
+},
+{
+    "model": "core.room",
+    "pk": 2,
+    "fields": {
+        "name": "Sala 2",
+        "capacity": 16
+    }
+},
+{
+    "model": "core.room",
+    "pk": 3,
+    "fields": {
+        "name": "Sala 3",
+        "capacity": 16
+    }
+},
+{
+    "model": "core.room",
+    "pk": 4,
+    "fields": {
+        "name": "Sala 4",
+        "capacity": 16
+    }
+},
+{
+    "model": "core.session",
+    "pk": 1,
+    "fields": {
+        "movie": 1,
+        "room": 1,
+        "datetime": "2026-04-01T07:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 2,
+    "fields": {
+        "movie": 2,
+        "room": 1,
+        "datetime": "2026-04-01T10:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 3,
+    "fields": {
+        "movie": 1,
+        "room": 1,
+        "datetime": "2026-04-01T13:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 4,
+    "fields": {
+        "movie": 2,
+        "room": 1,
+        "datetime": "2026-04-01T16:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 5,
+    "fields": {
+        "movie": 1,
+        "room": 1,
+        "datetime": "2026-04-01T19:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 6,
+    "fields": {
+        "movie": 2,
+        "room": 1,
+        "datetime": "2026-04-01T22:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 7,
+    "fields": {
+        "movie": 3,
+        "room": 2,
+        "datetime": "2026-04-02T07:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 8,
+    "fields": {
+        "movie": 4,
+        "room": 2,
+        "datetime": "2026-04-02T10:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 9,
+    "fields": {
+        "movie": 3,
+        "room": 2,
+        "datetime": "2026-04-02T13:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 10,
+    "fields": {
+        "movie": 4,
+        "room": 2,
+        "datetime": "2026-04-02T16:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 11,
+    "fields": {
+        "movie": 3,
+        "room": 2,
+        "datetime": "2026-04-02T19:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 12,
+    "fields": {
+        "movie": 4,
+        "room": 2,
+        "datetime": "2026-04-02T22:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 13,
+    "fields": {
+        "movie": 5,
+        "room": 3,
+        "datetime": "2026-04-03T07:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 14,
+    "fields": {
+        "movie": 6,
+        "room": 3,
+        "datetime": "2026-04-03T10:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 15,
+    "fields": {
+        "movie": 5,
+        "room": 3,
+        "datetime": "2026-04-03T13:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 16,
+    "fields": {
+        "movie": 6,
+        "room": 3,
+        "datetime": "2026-04-03T16:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 17,
+    "fields": {
+        "movie": 5,
+        "room": 3,
+        "datetime": "2026-04-03T19:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 18,
+    "fields": {
+        "movie": 6,
+        "room": 3,
+        "datetime": "2026-04-03T22:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 19,
+    "fields": {
+        "movie": 7,
+        "room": 4,
+        "datetime": "2026-04-04T07:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 20,
+    "fields": {
+        "movie": 8,
+        "room": 4,
+        "datetime": "2026-04-04T10:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 21,
+    "fields": {
+        "movie": 7,
+        "room": 4,
+        "datetime": "2026-04-04T13:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 22,
+    "fields": {
+        "movie": 8,
+        "room": 4,
+        "datetime": "2026-04-04T16:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 23,
+    "fields": {
+        "movie": 7,
+        "room": 4,
+        "datetime": "2026-04-04T19:00:00Z"
+    }
+},
+{
+    "model": "core.session",
+    "pk": 24,
+    "fields": {
+        "movie": 8,
+        "room": 4,
+        "datetime": "2026-04-04T22:00:00Z"
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 1,
+    "fields": {
+        "session": 1,
+        "seat_number": "A1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 2,
+    "fields": {
+        "session": 1,
+        "seat_number": "A2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 3,
+    "fields": {
+        "session": 1,
+        "seat_number": "A3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 4,
+    "fields": {
+        "session": 1,
+        "seat_number": "A4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 5,
+    "fields": {
+        "session": 1,
+        "seat_number": "B1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 6,
+    "fields": {
+        "session": 1,
+        "seat_number": "B2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 7,
+    "fields": {
+        "session": 1,
+        "seat_number": "B3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 8,
+    "fields": {
+        "session": 1,
+        "seat_number": "B4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 9,
+    "fields": {
+        "session": 1,
+        "seat_number": "C1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 10,
+    "fields": {
+        "session": 1,
+        "seat_number": "C2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 11,
+    "fields": {
+        "session": 1,
+        "seat_number": "C3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 12,
+    "fields": {
+        "session": 1,
+        "seat_number": "C4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 13,
+    "fields": {
+        "session": 1,
+        "seat_number": "D1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 14,
+    "fields": {
+        "session": 1,
+        "seat_number": "D2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 15,
+    "fields": {
+        "session": 1,
+        "seat_number": "D3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 16,
+    "fields": {
+        "session": 1,
+        "seat_number": "D4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 17,
+    "fields": {
+        "session": 2,
+        "seat_number": "A1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 18,
+    "fields": {
+        "session": 2,
+        "seat_number": "A2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 19,
+    "fields": {
+        "session": 2,
+        "seat_number": "A3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 20,
+    "fields": {
+        "session": 2,
+        "seat_number": "A4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 21,
+    "fields": {
+        "session": 2,
+        "seat_number": "B1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 22,
+    "fields": {
+        "session": 2,
+        "seat_number": "B2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 23,
+    "fields": {
+        "session": 2,
+        "seat_number": "B3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 24,
+    "fields": {
+        "session": 2,
+        "seat_number": "B4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 25,
+    "fields": {
+        "session": 2,
+        "seat_number": "C1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 26,
+    "fields": {
+        "session": 2,
+        "seat_number": "C2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 27,
+    "fields": {
+        "session": 2,
+        "seat_number": "C3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 28,
+    "fields": {
+        "session": 2,
+        "seat_number": "C4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 29,
+    "fields": {
+        "session": 2,
+        "seat_number": "D1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 30,
+    "fields": {
+        "session": 2,
+        "seat_number": "D2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 31,
+    "fields": {
+        "session": 2,
+        "seat_number": "D3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 32,
+    "fields": {
+        "session": 2,
+        "seat_number": "D4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 33,
+    "fields": {
+        "session": 3,
+        "seat_number": "A1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 34,
+    "fields": {
+        "session": 3,
+        "seat_number": "A2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 35,
+    "fields": {
+        "session": 3,
+        "seat_number": "A3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 36,
+    "fields": {
+        "session": 3,
+        "seat_number": "A4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 37,
+    "fields": {
+        "session": 3,
+        "seat_number": "B1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 38,
+    "fields": {
+        "session": 3,
+        "seat_number": "B2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 39,
+    "fields": {
+        "session": 3,
+        "seat_number": "B3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 40,
+    "fields": {
+        "session": 3,
+        "seat_number": "B4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 41,
+    "fields": {
+        "session": 3,
+        "seat_number": "C1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 42,
+    "fields": {
+        "session": 3,
+        "seat_number": "C2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 43,
+    "fields": {
+        "session": 3,
+        "seat_number": "C3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 44,
+    "fields": {
+        "session": 3,
+        "seat_number": "C4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 45,
+    "fields": {
+        "session": 3,
+        "seat_number": "D1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 46,
+    "fields": {
+        "session": 3,
+        "seat_number": "D2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 47,
+    "fields": {
+        "session": 3,
+        "seat_number": "D3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 48,
+    "fields": {
+        "session": 3,
+        "seat_number": "D4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 49,
+    "fields": {
+        "session": 4,
+        "seat_number": "A1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 50,
+    "fields": {
+        "session": 4,
+        "seat_number": "A2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 51,
+    "fields": {
+        "session": 4,
+        "seat_number": "A3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 52,
+    "fields": {
+        "session": 4,
+        "seat_number": "A4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 53,
+    "fields": {
+        "session": 4,
+        "seat_number": "B1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 54,
+    "fields": {
+        "session": 4,
+        "seat_number": "B2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 55,
+    "fields": {
+        "session": 4,
+        "seat_number": "B3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 56,
+    "fields": {
+        "session": 4,
+        "seat_number": "B4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 57,
+    "fields": {
+        "session": 4,
+        "seat_number": "C1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 58,
+    "fields": {
+        "session": 4,
+        "seat_number": "C2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 59,
+    "fields": {
+        "session": 4,
+        "seat_number": "C3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 60,
+    "fields": {
+        "session": 4,
+        "seat_number": "C4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 61,
+    "fields": {
+        "session": 4,
+        "seat_number": "D1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 62,
+    "fields": {
+        "session": 4,
+        "seat_number": "D2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 63,
+    "fields": {
+        "session": 4,
+        "seat_number": "D3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 64,
+    "fields": {
+        "session": 4,
+        "seat_number": "D4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 65,
+    "fields": {
+        "session": 5,
+        "seat_number": "A1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 66,
+    "fields": {
+        "session": 5,
+        "seat_number": "A2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 67,
+    "fields": {
+        "session": 5,
+        "seat_number": "A3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 68,
+    "fields": {
+        "session": 5,
+        "seat_number": "A4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 69,
+    "fields": {
+        "session": 5,
+        "seat_number": "B1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 70,
+    "fields": {
+        "session": 5,
+        "seat_number": "B2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 71,
+    "fields": {
+        "session": 5,
+        "seat_number": "B3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 72,
+    "fields": {
+        "session": 5,
+        "seat_number": "B4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 73,
+    "fields": {
+        "session": 5,
+        "seat_number": "C1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 74,
+    "fields": {
+        "session": 5,
+        "seat_number": "C2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 75,
+    "fields": {
+        "session": 5,
+        "seat_number": "C3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 76,
+    "fields": {
+        "session": 5,
+        "seat_number": "C4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 77,
+    "fields": {
+        "session": 5,
+        "seat_number": "D1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 78,
+    "fields": {
+        "session": 5,
+        "seat_number": "D2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 79,
+    "fields": {
+        "session": 5,
+        "seat_number": "D3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 80,
+    "fields": {
+        "session": 5,
+        "seat_number": "D4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 81,
+    "fields": {
+        "session": 6,
+        "seat_number": "A1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 82,
+    "fields": {
+        "session": 6,
+        "seat_number": "A2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 83,
+    "fields": {
+        "session": 6,
+        "seat_number": "A3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 84,
+    "fields": {
+        "session": 6,
+        "seat_number": "A4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 85,
+    "fields": {
+        "session": 6,
+        "seat_number": "B1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 86,
+    "fields": {
+        "session": 6,
+        "seat_number": "B2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 87,
+    "fields": {
+        "session": 6,
+        "seat_number": "B3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 88,
+    "fields": {
+        "session": 6,
+        "seat_number": "B4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 89,
+    "fields": {
+        "session": 6,
+        "seat_number": "C1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 90,
+    "fields": {
+        "session": 6,
+        "seat_number": "C2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 91,
+    "fields": {
+        "session": 6,
+        "seat_number": "C3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 92,
+    "fields": {
+        "session": 6,
+        "seat_number": "C4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 93,
+    "fields": {
+        "session": 6,
+        "seat_number": "D1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 94,
+    "fields": {
+        "session": 6,
+        "seat_number": "D2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 95,
+    "fields": {
+        "session": 6,
+        "seat_number": "D3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 96,
+    "fields": {
+        "session": 6,
+        "seat_number": "D4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 97,
+    "fields": {
+        "session": 7,
+        "seat_number": "A1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 98,
+    "fields": {
+        "session": 7,
+        "seat_number": "A2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 99,
+    "fields": {
+        "session": 7,
+        "seat_number": "A3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 100,
+    "fields": {
+        "session": 7,
+        "seat_number": "A4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 101,
+    "fields": {
+        "session": 7,
+        "seat_number": "B1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 102,
+    "fields": {
+        "session": 7,
+        "seat_number": "B2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 103,
+    "fields": {
+        "session": 7,
+        "seat_number": "B3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 104,
+    "fields": {
+        "session": 7,
+        "seat_number": "B4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 105,
+    "fields": {
+        "session": 7,
+        "seat_number": "C1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 106,
+    "fields": {
+        "session": 7,
+        "seat_number": "C2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 107,
+    "fields": {
+        "session": 7,
+        "seat_number": "C3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 108,
+    "fields": {
+        "session": 7,
+        "seat_number": "C4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 109,
+    "fields": {
+        "session": 7,
+        "seat_number": "D1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 110,
+    "fields": {
+        "session": 7,
+        "seat_number": "D2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 111,
+    "fields": {
+        "session": 7,
+        "seat_number": "D3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 112,
+    "fields": {
+        "session": 7,
+        "seat_number": "D4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 113,
+    "fields": {
+        "session": 8,
+        "seat_number": "A1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 114,
+    "fields": {
+        "session": 8,
+        "seat_number": "A2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 115,
+    "fields": {
+        "session": 8,
+        "seat_number": "A3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 116,
+    "fields": {
+        "session": 8,
+        "seat_number": "A4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 117,
+    "fields": {
+        "session": 8,
+        "seat_number": "B1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 118,
+    "fields": {
+        "session": 8,
+        "seat_number": "B2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 119,
+    "fields": {
+        "session": 8,
+        "seat_number": "B3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 120,
+    "fields": {
+        "session": 8,
+        "seat_number": "B4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 121,
+    "fields": {
+        "session": 8,
+        "seat_number": "C1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 122,
+    "fields": {
+        "session": 8,
+        "seat_number": "C2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 123,
+    "fields": {
+        "session": 8,
+        "seat_number": "C3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 124,
+    "fields": {
+        "session": 8,
+        "seat_number": "C4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 125,
+    "fields": {
+        "session": 8,
+        "seat_number": "D1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 126,
+    "fields": {
+        "session": 8,
+        "seat_number": "D2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 127,
+    "fields": {
+        "session": 8,
+        "seat_number": "D3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 128,
+    "fields": {
+        "session": 8,
+        "seat_number": "D4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 129,
+    "fields": {
+        "session": 9,
+        "seat_number": "A1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 130,
+    "fields": {
+        "session": 9,
+        "seat_number": "A2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 131,
+    "fields": {
+        "session": 9,
+        "seat_number": "A3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 132,
+    "fields": {
+        "session": 9,
+        "seat_number": "A4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 133,
+    "fields": {
+        "session": 9,
+        "seat_number": "B1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 134,
+    "fields": {
+        "session": 9,
+        "seat_number": "B2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 135,
+    "fields": {
+        "session": 9,
+        "seat_number": "B3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 136,
+    "fields": {
+        "session": 9,
+        "seat_number": "B4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 137,
+    "fields": {
+        "session": 9,
+        "seat_number": "C1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 138,
+    "fields": {
+        "session": 9,
+        "seat_number": "C2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 139,
+    "fields": {
+        "session": 9,
+        "seat_number": "C3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 140,
+    "fields": {
+        "session": 9,
+        "seat_number": "C4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 141,
+    "fields": {
+        "session": 9,
+        "seat_number": "D1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 142,
+    "fields": {
+        "session": 9,
+        "seat_number": "D2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 143,
+    "fields": {
+        "session": 9,
+        "seat_number": "D3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 144,
+    "fields": {
+        "session": 9,
+        "seat_number": "D4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 145,
+    "fields": {
+        "session": 10,
+        "seat_number": "A1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 146,
+    "fields": {
+        "session": 10,
+        "seat_number": "A2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 147,
+    "fields": {
+        "session": 10,
+        "seat_number": "A3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 148,
+    "fields": {
+        "session": 10,
+        "seat_number": "A4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 149,
+    "fields": {
+        "session": 10,
+        "seat_number": "B1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 150,
+    "fields": {
+        "session": 10,
+        "seat_number": "B2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 151,
+    "fields": {
+        "session": 10,
+        "seat_number": "B3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 152,
+    "fields": {
+        "session": 10,
+        "seat_number": "B4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 153,
+    "fields": {
+        "session": 10,
+        "seat_number": "C1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 154,
+    "fields": {
+        "session": 10,
+        "seat_number": "C2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 155,
+    "fields": {
+        "session": 10,
+        "seat_number": "C3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 156,
+    "fields": {
+        "session": 10,
+        "seat_number": "C4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 157,
+    "fields": {
+        "session": 10,
+        "seat_number": "D1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 158,
+    "fields": {
+        "session": 10,
+        "seat_number": "D2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 159,
+    "fields": {
+        "session": 10,
+        "seat_number": "D3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 160,
+    "fields": {
+        "session": 10,
+        "seat_number": "D4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 161,
+    "fields": {
+        "session": 11,
+        "seat_number": "A1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 162,
+    "fields": {
+        "session": 11,
+        "seat_number": "A2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 163,
+    "fields": {
+        "session": 11,
+        "seat_number": "A3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 164,
+    "fields": {
+        "session": 11,
+        "seat_number": "A4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 165,
+    "fields": {
+        "session": 11,
+        "seat_number": "B1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 166,
+    "fields": {
+        "session": 11,
+        "seat_number": "B2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 167,
+    "fields": {
+        "session": 11,
+        "seat_number": "B3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 168,
+    "fields": {
+        "session": 11,
+        "seat_number": "B4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 169,
+    "fields": {
+        "session": 11,
+        "seat_number": "C1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 170,
+    "fields": {
+        "session": 11,
+        "seat_number": "C2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 171,
+    "fields": {
+        "session": 11,
+        "seat_number": "C3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 172,
+    "fields": {
+        "session": 11,
+        "seat_number": "C4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 173,
+    "fields": {
+        "session": 11,
+        "seat_number": "D1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 174,
+    "fields": {
+        "session": 11,
+        "seat_number": "D2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 175,
+    "fields": {
+        "session": 11,
+        "seat_number": "D3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 176,
+    "fields": {
+        "session": 11,
+        "seat_number": "D4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 177,
+    "fields": {
+        "session": 12,
+        "seat_number": "A1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 178,
+    "fields": {
+        "session": 12,
+        "seat_number": "A2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 179,
+    "fields": {
+        "session": 12,
+        "seat_number": "A3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 180,
+    "fields": {
+        "session": 12,
+        "seat_number": "A4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 181,
+    "fields": {
+        "session": 12,
+        "seat_number": "B1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 182,
+    "fields": {
+        "session": 12,
+        "seat_number": "B2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 183,
+    "fields": {
+        "session": 12,
+        "seat_number": "B3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 184,
+    "fields": {
+        "session": 12,
+        "seat_number": "B4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 185,
+    "fields": {
+        "session": 12,
+        "seat_number": "C1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 186,
+    "fields": {
+        "session": 12,
+        "seat_number": "C2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 187,
+    "fields": {
+        "session": 12,
+        "seat_number": "C3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 188,
+    "fields": {
+        "session": 12,
+        "seat_number": "C4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 189,
+    "fields": {
+        "session": 12,
+        "seat_number": "D1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 190,
+    "fields": {
+        "session": 12,
+        "seat_number": "D2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 191,
+    "fields": {
+        "session": 12,
+        "seat_number": "D3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 192,
+    "fields": {
+        "session": 12,
+        "seat_number": "D4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 193,
+    "fields": {
+        "session": 13,
+        "seat_number": "A1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 194,
+    "fields": {
+        "session": 13,
+        "seat_number": "A2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 195,
+    "fields": {
+        "session": 13,
+        "seat_number": "A3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 196,
+    "fields": {
+        "session": 13,
+        "seat_number": "A4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 197,
+    "fields": {
+        "session": 13,
+        "seat_number": "B1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 198,
+    "fields": {
+        "session": 13,
+        "seat_number": "B2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 199,
+    "fields": {
+        "session": 13,
+        "seat_number": "B3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 200,
+    "fields": {
+        "session": 13,
+        "seat_number": "B4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 201,
+    "fields": {
+        "session": 13,
+        "seat_number": "C1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 202,
+    "fields": {
+        "session": 13,
+        "seat_number": "C2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 203,
+    "fields": {
+        "session": 13,
+        "seat_number": "C3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 204,
+    "fields": {
+        "session": 13,
+        "seat_number": "C4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 205,
+    "fields": {
+        "session": 13,
+        "seat_number": "D1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 206,
+    "fields": {
+        "session": 13,
+        "seat_number": "D2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 207,
+    "fields": {
+        "session": 13,
+        "seat_number": "D3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 208,
+    "fields": {
+        "session": 13,
+        "seat_number": "D4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 209,
+    "fields": {
+        "session": 14,
+        "seat_number": "A1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 210,
+    "fields": {
+        "session": 14,
+        "seat_number": "A2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 211,
+    "fields": {
+        "session": 14,
+        "seat_number": "A3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 212,
+    "fields": {
+        "session": 14,
+        "seat_number": "A4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 213,
+    "fields": {
+        "session": 14,
+        "seat_number": "B1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 214,
+    "fields": {
+        "session": 14,
+        "seat_number": "B2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 215,
+    "fields": {
+        "session": 14,
+        "seat_number": "B3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 216,
+    "fields": {
+        "session": 14,
+        "seat_number": "B4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 217,
+    "fields": {
+        "session": 14,
+        "seat_number": "C1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 218,
+    "fields": {
+        "session": 14,
+        "seat_number": "C2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 219,
+    "fields": {
+        "session": 14,
+        "seat_number": "C3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 220,
+    "fields": {
+        "session": 14,
+        "seat_number": "C4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 221,
+    "fields": {
+        "session": 14,
+        "seat_number": "D1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 222,
+    "fields": {
+        "session": 14,
+        "seat_number": "D2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 223,
+    "fields": {
+        "session": 14,
+        "seat_number": "D3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 224,
+    "fields": {
+        "session": 14,
+        "seat_number": "D4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 225,
+    "fields": {
+        "session": 15,
+        "seat_number": "A1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 226,
+    "fields": {
+        "session": 15,
+        "seat_number": "A2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 227,
+    "fields": {
+        "session": 15,
+        "seat_number": "A3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 228,
+    "fields": {
+        "session": 15,
+        "seat_number": "A4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 229,
+    "fields": {
+        "session": 15,
+        "seat_number": "B1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 230,
+    "fields": {
+        "session": 15,
+        "seat_number": "B2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 231,
+    "fields": {
+        "session": 15,
+        "seat_number": "B3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 232,
+    "fields": {
+        "session": 15,
+        "seat_number": "B4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 233,
+    "fields": {
+        "session": 15,
+        "seat_number": "C1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 234,
+    "fields": {
+        "session": 15,
+        "seat_number": "C2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 235,
+    "fields": {
+        "session": 15,
+        "seat_number": "C3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 236,
+    "fields": {
+        "session": 15,
+        "seat_number": "C4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 237,
+    "fields": {
+        "session": 15,
+        "seat_number": "D1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 238,
+    "fields": {
+        "session": 15,
+        "seat_number": "D2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 239,
+    "fields": {
+        "session": 15,
+        "seat_number": "D3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 240,
+    "fields": {
+        "session": 15,
+        "seat_number": "D4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 241,
+    "fields": {
+        "session": 16,
+        "seat_number": "A1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 242,
+    "fields": {
+        "session": 16,
+        "seat_number": "A2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 243,
+    "fields": {
+        "session": 16,
+        "seat_number": "A3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 244,
+    "fields": {
+        "session": 16,
+        "seat_number": "A4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 245,
+    "fields": {
+        "session": 16,
+        "seat_number": "B1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 246,
+    "fields": {
+        "session": 16,
+        "seat_number": "B2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 247,
+    "fields": {
+        "session": 16,
+        "seat_number": "B3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 248,
+    "fields": {
+        "session": 16,
+        "seat_number": "B4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 249,
+    "fields": {
+        "session": 16,
+        "seat_number": "C1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 250,
+    "fields": {
+        "session": 16,
+        "seat_number": "C2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 251,
+    "fields": {
+        "session": 16,
+        "seat_number": "C3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 252,
+    "fields": {
+        "session": 16,
+        "seat_number": "C4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 253,
+    "fields": {
+        "session": 16,
+        "seat_number": "D1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 254,
+    "fields": {
+        "session": 16,
+        "seat_number": "D2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 255,
+    "fields": {
+        "session": 16,
+        "seat_number": "D3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 256,
+    "fields": {
+        "session": 16,
+        "seat_number": "D4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 257,
+    "fields": {
+        "session": 17,
+        "seat_number": "A1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 258,
+    "fields": {
+        "session": 17,
+        "seat_number": "A2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 259,
+    "fields": {
+        "session": 17,
+        "seat_number": "A3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 260,
+    "fields": {
+        "session": 17,
+        "seat_number": "A4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 261,
+    "fields": {
+        "session": 17,
+        "seat_number": "B1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 262,
+    "fields": {
+        "session": 17,
+        "seat_number": "B2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 263,
+    "fields": {
+        "session": 17,
+        "seat_number": "B3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 264,
+    "fields": {
+        "session": 17,
+        "seat_number": "B4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 265,
+    "fields": {
+        "session": 17,
+        "seat_number": "C1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 266,
+    "fields": {
+        "session": 17,
+        "seat_number": "C2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 267,
+    "fields": {
+        "session": 17,
+        "seat_number": "C3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 268,
+    "fields": {
+        "session": 17,
+        "seat_number": "C4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 269,
+    "fields": {
+        "session": 17,
+        "seat_number": "D1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 270,
+    "fields": {
+        "session": 17,
+        "seat_number": "D2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 271,
+    "fields": {
+        "session": 17,
+        "seat_number": "D3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 272,
+    "fields": {
+        "session": 17,
+        "seat_number": "D4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 273,
+    "fields": {
+        "session": 18,
+        "seat_number": "A1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 274,
+    "fields": {
+        "session": 18,
+        "seat_number": "A2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 275,
+    "fields": {
+        "session": 18,
+        "seat_number": "A3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 276,
+    "fields": {
+        "session": 18,
+        "seat_number": "A4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 277,
+    "fields": {
+        "session": 18,
+        "seat_number": "B1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 278,
+    "fields": {
+        "session": 18,
+        "seat_number": "B2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 279,
+    "fields": {
+        "session": 18,
+        "seat_number": "B3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 280,
+    "fields": {
+        "session": 18,
+        "seat_number": "B4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 281,
+    "fields": {
+        "session": 18,
+        "seat_number": "C1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 282,
+    "fields": {
+        "session": 18,
+        "seat_number": "C2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 283,
+    "fields": {
+        "session": 18,
+        "seat_number": "C3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 284,
+    "fields": {
+        "session": 18,
+        "seat_number": "C4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 285,
+    "fields": {
+        "session": 18,
+        "seat_number": "D1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 286,
+    "fields": {
+        "session": 18,
+        "seat_number": "D2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 287,
+    "fields": {
+        "session": 18,
+        "seat_number": "D3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 288,
+    "fields": {
+        "session": 18,
+        "seat_number": "D4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 289,
+    "fields": {
+        "session": 19,
+        "seat_number": "A1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 290,
+    "fields": {
+        "session": 19,
+        "seat_number": "A2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 291,
+    "fields": {
+        "session": 19,
+        "seat_number": "A3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 292,
+    "fields": {
+        "session": 19,
+        "seat_number": "A4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 293,
+    "fields": {
+        "session": 19,
+        "seat_number": "B1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 294,
+    "fields": {
+        "session": 19,
+        "seat_number": "B2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 295,
+    "fields": {
+        "session": 19,
+        "seat_number": "B3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 296,
+    "fields": {
+        "session": 19,
+        "seat_number": "B4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 297,
+    "fields": {
+        "session": 19,
+        "seat_number": "C1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 298,
+    "fields": {
+        "session": 19,
+        "seat_number": "C2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 299,
+    "fields": {
+        "session": 19,
+        "seat_number": "C3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 300,
+    "fields": {
+        "session": 19,
+        "seat_number": "C4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 301,
+    "fields": {
+        "session": 19,
+        "seat_number": "D1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 302,
+    "fields": {
+        "session": 19,
+        "seat_number": "D2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 303,
+    "fields": {
+        "session": 19,
+        "seat_number": "D3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 304,
+    "fields": {
+        "session": 19,
+        "seat_number": "D4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 305,
+    "fields": {
+        "session": 20,
+        "seat_number": "A1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 306,
+    "fields": {
+        "session": 20,
+        "seat_number": "A2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 307,
+    "fields": {
+        "session": 20,
+        "seat_number": "A3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 308,
+    "fields": {
+        "session": 20,
+        "seat_number": "A4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 309,
+    "fields": {
+        "session": 20,
+        "seat_number": "B1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 310,
+    "fields": {
+        "session": 20,
+        "seat_number": "B2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 311,
+    "fields": {
+        "session": 20,
+        "seat_number": "B3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 312,
+    "fields": {
+        "session": 20,
+        "seat_number": "B4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 313,
+    "fields": {
+        "session": 20,
+        "seat_number": "C1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 314,
+    "fields": {
+        "session": 20,
+        "seat_number": "C2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 315,
+    "fields": {
+        "session": 20,
+        "seat_number": "C3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 316,
+    "fields": {
+        "session": 20,
+        "seat_number": "C4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 317,
+    "fields": {
+        "session": 20,
+        "seat_number": "D1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 318,
+    "fields": {
+        "session": 20,
+        "seat_number": "D2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 319,
+    "fields": {
+        "session": 20,
+        "seat_number": "D3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 320,
+    "fields": {
+        "session": 20,
+        "seat_number": "D4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 321,
+    "fields": {
+        "session": 21,
+        "seat_number": "A1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 322,
+    "fields": {
+        "session": 21,
+        "seat_number": "A2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 323,
+    "fields": {
+        "session": 21,
+        "seat_number": "A3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 324,
+    "fields": {
+        "session": 21,
+        "seat_number": "A4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 325,
+    "fields": {
+        "session": 21,
+        "seat_number": "B1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 326,
+    "fields": {
+        "session": 21,
+        "seat_number": "B2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 327,
+    "fields": {
+        "session": 21,
+        "seat_number": "B3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 328,
+    "fields": {
+        "session": 21,
+        "seat_number": "B4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 329,
+    "fields": {
+        "session": 21,
+        "seat_number": "C1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 330,
+    "fields": {
+        "session": 21,
+        "seat_number": "C2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 331,
+    "fields": {
+        "session": 21,
+        "seat_number": "C3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 332,
+    "fields": {
+        "session": 21,
+        "seat_number": "C4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 333,
+    "fields": {
+        "session": 21,
+        "seat_number": "D1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 334,
+    "fields": {
+        "session": 21,
+        "seat_number": "D2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 335,
+    "fields": {
+        "session": 21,
+        "seat_number": "D3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 336,
+    "fields": {
+        "session": 21,
+        "seat_number": "D4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 337,
+    "fields": {
+        "session": 22,
+        "seat_number": "A1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 338,
+    "fields": {
+        "session": 22,
+        "seat_number": "A2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 339,
+    "fields": {
+        "session": 22,
+        "seat_number": "A3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 340,
+    "fields": {
+        "session": 22,
+        "seat_number": "A4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 341,
+    "fields": {
+        "session": 22,
+        "seat_number": "B1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 342,
+    "fields": {
+        "session": 22,
+        "seat_number": "B2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 343,
+    "fields": {
+        "session": 22,
+        "seat_number": "B3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 344,
+    "fields": {
+        "session": 22,
+        "seat_number": "B4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 345,
+    "fields": {
+        "session": 22,
+        "seat_number": "C1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 346,
+    "fields": {
+        "session": 22,
+        "seat_number": "C2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 347,
+    "fields": {
+        "session": 22,
+        "seat_number": "C3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 348,
+    "fields": {
+        "session": 22,
+        "seat_number": "C4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 349,
+    "fields": {
+        "session": 22,
+        "seat_number": "D1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 350,
+    "fields": {
+        "session": 22,
+        "seat_number": "D2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 351,
+    "fields": {
+        "session": 22,
+        "seat_number": "D3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 352,
+    "fields": {
+        "session": 22,
+        "seat_number": "D4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 353,
+    "fields": {
+        "session": 23,
+        "seat_number": "A1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 354,
+    "fields": {
+        "session": 23,
+        "seat_number": "A2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 355,
+    "fields": {
+        "session": 23,
+        "seat_number": "A3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 356,
+    "fields": {
+        "session": 23,
+        "seat_number": "A4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 357,
+    "fields": {
+        "session": 23,
+        "seat_number": "B1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 358,
+    "fields": {
+        "session": 23,
+        "seat_number": "B2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 359,
+    "fields": {
+        "session": 23,
+        "seat_number": "B3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 360,
+    "fields": {
+        "session": 23,
+        "seat_number": "B4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 361,
+    "fields": {
+        "session": 23,
+        "seat_number": "C1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 362,
+    "fields": {
+        "session": 23,
+        "seat_number": "C2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 363,
+    "fields": {
+        "session": 23,
+        "seat_number": "C3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 364,
+    "fields": {
+        "session": 23,
+        "seat_number": "C4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 365,
+    "fields": {
+        "session": 23,
+        "seat_number": "D1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 366,
+    "fields": {
+        "session": 23,
+        "seat_number": "D2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 367,
+    "fields": {
+        "session": 23,
+        "seat_number": "D3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 368,
+    "fields": {
+        "session": 23,
+        "seat_number": "D4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 369,
+    "fields": {
+        "session": 24,
+        "seat_number": "A1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 370,
+    "fields": {
+        "session": 24,
+        "seat_number": "A2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 371,
+    "fields": {
+        "session": 24,
+        "seat_number": "A3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 372,
+    "fields": {
+        "session": 24,
+        "seat_number": "A4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 373,
+    "fields": {
+        "session": 24,
+        "seat_number": "B1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 374,
+    "fields": {
+        "session": 24,
+        "seat_number": "B2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 375,
+    "fields": {
+        "session": 24,
+        "seat_number": "B3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 376,
+    "fields": {
+        "session": 24,
+        "seat_number": "B4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 377,
+    "fields": {
+        "session": 24,
+        "seat_number": "C1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 378,
+    "fields": {
+        "session": 24,
+        "seat_number": "C2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 379,
+    "fields": {
+        "session": 24,
+        "seat_number": "C3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 380,
+    "fields": {
+        "session": 24,
+        "seat_number": "C4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 381,
+    "fields": {
+        "session": 24,
+        "seat_number": "D1",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 382,
+    "fields": {
+        "session": 24,
+        "seat_number": "D2",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 383,
+    "fields": {
+        "session": 24,
+        "seat_number": "D3",
+        "is_purchased": false
+    }
+},
+{
+    "model": "core.seat",
+    "pk": 384,
+    "fields": {
+        "session": 24,
+        "seat_number": "D4",
+        "is_purchased": false
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 9,
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$NJAI8jepCzJywE32LImIBi$C0NphOvY/XySkM8+mBcbppkPlO5/nQGrVtV9LHiZcmU=",
+        "last_login": "2026-03-19T02:55:16.318Z",
+        "email": "super@user.com",
+        "is_active": true,
+        "is_superuser": true,
+        "is_staff": true
+    }
+}
+]

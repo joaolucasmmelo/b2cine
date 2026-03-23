@@ -10,6 +10,8 @@ class MovieSerializer(serializers.ModelSerializer):
 
 
 class SessionSerializer(serializers.ModelSerializer):
+    movie = MovieSerializer()
+
     class Meta:
         model = Session
         fields = ['id', 'movie', 'room', 'datetime']
